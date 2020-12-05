@@ -2,7 +2,7 @@
 
 This is a macOS tool to get the Device UIDs of all the microphones connected to your Mac.
 
-You can use the output device UIDs to configure the audio config for the [Azure cognitive services speech SDK](https://docs.microsoft.com/azure/cognitive-services/speech-service/how-to-select-audio-input-devices/?WT.mc_id=audioids-github-jabenn).
+You can use the output device UIDs to configure the audio config for the [Azure cognitive services speech SDK](https://docs.microsoft.com/azure/cognitive-services/speech-service/how-to-select-audio-input-devices/?WT.mc_id=academic-0000-jabenn).
 
 For example - with this output:
 
